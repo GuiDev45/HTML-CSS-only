@@ -1,0 +1,30 @@
+1. Crie um projeto chamado "Supermercado".
+
+2. Crie um arquivo index.html.
+2.1. O título do arquivo e o título de nível 1 devem conter o nome do projeto.
+
+3. Crie um diretório dentro do projeto com nome de "estantes".
+
+4. Dentro do diretório "estantes", crie dois arquivos: alimentos.html e limpeza.html.
+4.1. Adicione um link no início do arquivo para voltar à página inicial.
+4.2. Adicione um título de nível 1 com o nome da estante.
+4.3. Adicione as seguintes divs, cada uma representando um produto:
+Nome do produto (h3)
+Descrição do produto (p)
+Promoção (p)
+Preço do produto (p)
+
+5. No arquivo index.html, adicione um link para cada estante.
+5.1. Os links devem estar dentro de títulos de nível 2.
+
+6. Crie um diretório chamado "css" dentro do projeto.
+
+7. Dentro do diretório "css", crie um arquivo chamado style.css.
+7.1. Link o arquivo em todas as páginas.
+7.2. Defina as seguintes propriedades no CSS:
+    Mude a cor dos produtos que estejam em promoção para red e com o estilo bold.
+    Mude a cor dos produtos que não estejam em promoção para azul e estilo normal
+    Remova o sublinhado de todos os links do site.
+    Mude a cor dos links que estão dentro de títulos de nível 2 para seagreen.
+    Aumente a fonte dos parágrafos para 18px.
+    Mude a família da fonte de todo o site para Helvetica.

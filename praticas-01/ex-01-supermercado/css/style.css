@@ -1,0 +1,25 @@
+.produto {
+color: blue;
+font-style: normal;
+}
+
+.preco-promocao {
+  color: red;
+  font-style: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  color: seagreen;
+}
+
+p {
+  font-size: 18px;
+}
+
+body {
+  font-family: Helvetica;
+}
