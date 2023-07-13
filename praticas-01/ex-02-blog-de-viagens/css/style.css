@@ -1,0 +1,10 @@
+body {
+  margin: 20px;
+}
+
+.posts {
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 1px #ccc;
+}

@@ -1,0 +1,26 @@
+1. Crie um projeto chamado "Blog de Viagens".
+
+2. Crie um arquivo index.html.
+2.1. O título do arquivo e o título de nível 1 devem conter o nome do projeto.
+
+3. Crie um diretório chamado "posts".
+
+4. Dentro do diretório "posts", crie dois arquivos: "post1.html" e "post2.html".
+4.1. Adicione um link no início de cada arquivo para voltar à página inicial.
+4.2. Adicione um título de nível 1 com o título do post.
+4.3. Adicione um parágrafo com a data do post.
+4.4. Adicione um parágrafo com o conteúdo do post.
+
+5. No arquivo index.html, adicione um link para cada post.
+5.1. Os links devem estar dentro de títulos de nível 2.
+
+6. Crie um diretório chamado "css" dentro do projeto.
+
+7. Dentro do diretório "css", crie um arquivo chamado "style.css".
+7.1. Link o arquivo em todas as páginas.
+7.2. Defina as seguintes propriedades no CSS:
+Adicione uma margem de 20px para o body.
+Defina uma largura de 600px para as divs dos posts.
+Adicione um espaçamento interno de 20px para as divs dos posts.
+Defina uma margem inferior de 20px para as divs dos posts.
+Adicione uma borda sólida de 1px e cor cinza para as divs dos posts.
