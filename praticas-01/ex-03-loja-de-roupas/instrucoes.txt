@@ -1,0 +1,26 @@
+1. Crie um projeto chamado "Loja de Roupas".
+
+2. Crie um arquivo index.html.
+2.1. O título do arquivo e o título de nível 1 devem conter o nome do projeto.
+
+3. Crie um diretório chamado "produtos".
+
+4. Dentro do diretório "produtos", crie três arquivos: "camisetas.html", "calcas.html" e "sapatos.html".
+4.1. Adicione um link no início de cada arquivo para voltar à página inicial.
+4.2. Adicione um título de nível 1 com o nome do produto.
+4.3. Adicione uma imagem representativa do produto.
+4.4. Adicione uma descrição do produto.
+
+5. No arquivo index.html, adicione um link para cada categoria de produtos.
+5.1. Os links devem estar dentro de títulos de nível 2.
+
+6. Crie um diretório chamado "css" dentro do projeto.
+
+7. Dentro do diretório "css", crie um arquivo chamado "style.css".
+7.1. Link o arquivo em todas as páginas.
+7.2. Defina as seguintes propriedades no CSS:
+  Adicione uma margem de 20px para o body.
+  Defina uma largura de 300px para as divs dos produtos.
+  Adicione um espaçamento interno de 20px para as divs dos produtos.
+  Defina uma margem inferior de 20px para as divs dos produtos.
+  Adicione uma borda sólida de 1px e cor cinza para as divs dos produtos.
