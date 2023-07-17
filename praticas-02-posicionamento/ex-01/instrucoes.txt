@@ -1,0 +1,9 @@
+Instrução:
+
+Crie uma página para exibir uma lista de tarefas. Cada tarefa terá um título e uma descrição. O objetivo é posicionar os elementos da página da seguinte forma:
+
+O título da página deve estar centralizado horizontalmente e posicionado no topo da página.
+A lista de tarefas deve ser exibida em duas colunas, com as tarefas distribuídas igualmente entre as colunas.
+Cada tarefa deve ter um espaço vazio de 20 pixels entre elas.
+O título de cada tarefa deve estar alinhado à esquerda e a descrição deve estar alinhada à direita.
+A página deve ter um rodapé fixo na parte inferior, com um texto de direitos autorais.
