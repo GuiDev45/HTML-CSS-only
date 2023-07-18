@@ -1,0 +1,12 @@
+Instrução:
+
+Crie uma página para exibir informações sobre uma equipe esportiva. A página terá uma seção para exibir o logotipo do time, uma seção para listar os jogadores e uma seção para mostrar os patrocinadores do time. O objetivo é posicionar os elementos da página da seguinte forma:
+
+O logotipo do time deve estar posicionado no canto superior esquerdo da página.
+O título da equipe deve estar centralizado horizontalmente e posicionado abaixo do logotipo.
+A seção de jogadores deve ser exibida em uma lista de três colunas, com os jogadores distribuídos igualmente entre as colunas.
+Cada jogador deve ter uma foto, um nome e uma posição.
+A seção de patrocinadores deve estar posicionada abaixo da seção de jogadores.
+Os patrocinadores devem ser exibidos em uma linha horizontal, centralizados na página.
+Cada patrocinador deve ter um espaço vazio de 20 pixels entre eles.
+O rodapé da página deve estar fixo na parte inferior.
