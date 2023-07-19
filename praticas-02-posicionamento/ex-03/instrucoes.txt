@@ -1,0 +1,11 @@
+Instrução:
+
+Crie uma página de login para um aplicativo de mensagens. A página terá um formulário de login com campos para o nome de usuário e senha, além de um botão para enviar o formulário. O objetivo é posicionar os elementos da página da seguinte forma:
+
+O formulário de login deve estar centralizado vertical e horizontalmente na página.
+O campo de nome de usuário e o campo de senha devem estar um abaixo do outro.
+O botão de envio do formulário deve estar posicionado abaixo dos campos de login.
+Adicione um ícone de mensagem ao lado do título do formulário para ilustrar a temática do aplicativo.
+Ajuste o espaçamento e o tamanho dos elementos para criar um layout agradável e intuitivo.
+A página deve ter um fundo colorido para destacar visualmente o formulário de login.
+O rodapé da página deve estar fixo na parte inferior.
