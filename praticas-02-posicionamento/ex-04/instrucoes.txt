@@ -1,0 +1,11 @@
+Instrução:
+
+Crie uma página de perfil de usuário para uma rede social. A página deve exibir informações básicas do perfil, como foto, nome, biografia e estatísticas de seguidores. O objetivo é posicionar os elementos da página da seguinte forma:
+
+A foto do perfil deve estar posicionada no canto superior esquerdo da página.
+O nome do usuário deve estar posicionado à direita da foto, alinhado verticalmente ao centro.
+A biografia do usuário deve estar posicionada abaixo do nome, ocupando todo o espaço restante na largura da página.
+As estatísticas de seguidores devem ser exibidas em uma linha horizontal abaixo da biografia.
+Cada estatística de seguidores deve ter um ícone correspondente e um valor numérico.
+A página deve ter um fundo com uma cor suave para destacar visualmente o perfil.
+O rodapé da página deve estar fixo na parte inferior.
