@@ -1,0 +1,12 @@
+Instrução:
+
+Crie uma página de galeria de fotos para um site de fotografia. A página deve exibir uma grade de miniaturas das fotos e, ao clicar em uma miniatura, a foto em tamanho grande deve ser exibida em destaque. O objetivo é posicionar os elementos da página da seguinte forma:
+
+A grade de miniaturas deve ocupar a maior parte da largura da página, com três colunas e várias linhas.
+Cada miniatura deve ser exibida como um quadrado com uma margem de 10 pixels entre elas.
+A foto em tamanho grande deve ser exibida em destaque ao lado direito da grade de miniaturas.
+A foto em destaque deve ter uma borda para diferenciá-la das miniaturas.
+A descrição da foto em destaque deve estar abaixo da foto.
+Ao clicar em uma miniatura, a foto correspondente deve ser exibida em destaque ao lado direito.
+A página deve ter um fundo neutro para realçar as fotos.
+O rodapé da página deve estar fixo na parte inferior.
