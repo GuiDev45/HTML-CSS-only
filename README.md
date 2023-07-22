@@ -18,9 +18,6 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | ![Lista de Tarefas](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-02-posicionamento/ex-01/prints/print-01.JPG) | ![Equipe Esportiva](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-02-posicionamento/ex-02/prints/print-01.JPG) | ![Mensagens App ](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-02-posicionamento/ex-03/prints/print-01.JPG) | ![Rede Social](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-02-posicionamento/ex-04/prints/print-01.JPG) | ![Galeria de Fotos](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-02-posicionamento/ex-05/prints/print-01.JPG)
 
-[Veja mais detalhes](https://github.com/GuiDev45/HTML-CSS-only/tree/master/praticas-02-posicionamento)
-
-
 
 [Veja mais detalhes](https://github.com/GuiDev45/HTML-CSS-only/tree/master/praticas-02-posicionamento)
 
@@ -41,8 +38,6 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 | Exercício 01 - Supermercado                             | Exercício 02 - Blog de Viagens                           |  Exercício 03 - Loja de Roupas                         |
 | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | ![Home](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-01-supermercado/prints/print-01.JPG) ![Página - Estante de Alimentos](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-01-supermercado/prints/print-01.JPG) ![Página - Estante de Limpeza](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-01-supermercado/prints/print-03.JPG) | ![Home](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-02-blog-de-viagens/prints/print-01.JPG) ![Post 1](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-02-blog-de-viagens/prints/print-02.JPG) ![Post 2](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-02-blog-de-viagens/prints/print-03.JPG) | ![Home](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-03-loja-de-roupas/prints/print-01.JPG) ![Página - Camisetas](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-03-loja-de-roupas/prints/print-02.JPG) ![Página - Calças](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-03-loja-de-roupas/prints/print-03.JPG) ![Página - Sapatos](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-01/ex-03-loja-de-roupas/prints/print-04.JPG) |
-
-
 
 [Veja mais detalhes](https://github.com/GuiDev45/HTML-CSS-only/tree/master/praticas-01)
 
