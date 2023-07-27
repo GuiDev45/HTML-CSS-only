@@ -12,6 +12,17 @@ Para acompanhar minha evolução ao longo do tempo, basta explorar os projetos e
 
 ## Projetos Realizados
 
+- **Práticas - Posicionamento** (23/07/2023)
+
+| Tela Health                                         |
+| --------------------------------------------------- |
+| ![Lista de Tarefas](https://github.com/GuiDev45/HTML-CSS-only/blob/master/praticas-03-posicionamento/Tela%20Health%20-%2001/print/print-tela.JPG)
+
+
+[Veja mais detalhes](https://github.com/GuiDev45/HTML-CSS-only/tree/master/praticas-03-posicionamento)
+
+...
+
 - **Práticas - Posicionamento** (19/07/2023)
 
 | Lista de Tarefas                              | Equipe Esportiva                           | Mensagens App                           | Rede Social                           | Galeria de Fotos                           | Bikcraft                           |
