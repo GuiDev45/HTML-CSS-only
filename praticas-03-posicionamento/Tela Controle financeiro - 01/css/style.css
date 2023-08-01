@@ -1,8 +1,102 @@
+/*----------------Reset-CSS e Estilo geral----------------*/
+
 body {
   background-color: #101010;
   color: white;
+  font-family: 'Montserrat', 'Roboto', 'sans-serif', 'Arial';
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1rem;
+
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
 }
 
 img {
-  max-width: 30%;
+  max-width: 100%;
+}
+
+/*----------------header----------------*/
+
+.nav-header {
+  background-color: #1D1D1D;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3.75rem;
+}
+
+.nav-header ul {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.a-botao-criar-branco {
+  background-color: #fff;
+  color: #1D1D1D;
+  padding: 0.9rem 1.8rem;
+  font-weight: bold;
+  border-radius: 3.125rem;
+}
+
+.a-botao-entrar {
+  color: #00D7C2;
+  border: solid 2px #00D7C2;
+  padding: 0.93rem 2.5rem;
+  border-radius: 3.125rem;
+  font-weight: bold;
+}
+
+.a-botao-espaco {
+  padding: 0.9rem;
+}
+
+.span-barra-detalhe {
+  background-color: #5D5D5D;
+  max-width: 100%;
+  height: 0.12rem;
+}
+
+.section-bancos h2{
+  text-align: center;
+  padding: 3.75rem 0 1.25rem;
+}
+
+.links-bancos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 0 0 3.75rem;
+}
+
+/*----------------main----------------*/
+
+
+
+.a-botao-criar-azul {
+  background-color: #00D7C2;
+  color: #1D1D1D;
+  padding: 0.9rem 1.8rem;
+  font-weight: bold;
+  border-radius: 3.125rem;
 }
