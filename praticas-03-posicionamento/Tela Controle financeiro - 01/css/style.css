@@ -77,6 +77,8 @@ img {
 }
 
 .section-bancos h2{
+  color: #00D7C2;
+  font-size: 2rem;
   text-align: center;
   padding: 3.75rem 0 1.25rem;
 }
@@ -91,7 +93,41 @@ img {
 
 /*----------------main----------------*/
 
+.section-main-01 {
+  background-image: url(../export-final-img/victor-iaquA2snPbk-unsplash\ 1.png);
+  background-size: cover; /* ou contain para ajustar a imagem ao tamanho do elemento */
+  height: 58.125rem;
+  padding: 7.5rem 3.15rem;
 
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.h1-gestao {
+  color: #00D7C2;
+  font-size: 4rem;
+  font-weight: 600;
+  width: 45.5rem;
+}
+
+.h3-gestao {
+  color:  #747474;
+  font-size: 3rem;
+  font-weight: 300;
+}
+
+.h3-titulo-input {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 2.25rem;
+  font-weight: 200;
+}
+
+.div-gestao p {
+  color: #747474;
+  font-size: 1rem;
+  font-weight: 300;
+}
 
 .a-botao-criar-azul {
   background-color: #00D7C2;
@@ -99,4 +135,9 @@ img {
   padding: 0.9rem 1.8rem;
   font-weight: bold;
   border-radius: 3.125rem;
+}
+
+.img-note-cell {
+  width: 42.75rem;
+  height: 27.8125rem;
 }
