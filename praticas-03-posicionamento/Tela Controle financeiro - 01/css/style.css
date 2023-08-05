@@ -97,10 +97,13 @@ img {
   background-image: url(../export-final-img/victor-iaquA2snPbk-unsplash\ 1.png);
   background-size: cover; /* ou contain para ajustar a imagem ao tamanho do elemento */
   height: 58.125rem;
-  padding: 7.5rem 3.15rem;
+  padding: 0rem 0rem 0rem 3.75rem;
 
   display: grid;
   grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .h1-gestao {
@@ -121,6 +124,17 @@ img {
   font-family: Roboto;
   font-size: 2.25rem;
   font-weight: 200;
+  padding: 3.75rem 0.5rem 3.05rem;
+}
+
+.h3-titulo-input a {
+  display: inline;
+  margin: 0.5rem;
+}
+
+.h3-titulo-input img {
+  width: 1.5625rem;
+  height: 1.875rem;
 }
 
 .div-gestao p {
@@ -129,15 +143,40 @@ img {
   font-weight: 300;
 }
 
+.container-input {
+  position: relative;
+}
+
+.div-input {
+  position: relative;
+}
+
+.div-input input {
+  width: 48rem;
+  height: 4rem;
+  border-radius: 34.375rem;
+  border: 2px solid #00D7C2;
+  background: #101010;
+  padding-right: 4rem;
+}
+
 .a-botao-criar-azul {
-  background-color: #00D7C2;
-  color: #1D1D1D;
-  padding: 0.9rem 1.8rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0.01rem 2.5rem;
   font-weight: bold;
+  font-size: 1.4rem;
   border-radius: 3.125rem;
+  background-color: #00D7C2;
+  color: #fff;
 }
 
 .img-note-cell {
-  width: 42.75rem;
+  max-width: 100%;
   height: 27.8125rem;
+  padding: 0rem 0 0 12rem;
 }
